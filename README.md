@@ -20,11 +20,9 @@ live page link
 https://hrzonca.github.io/Project-1-Horiseon-page/
 ![Screenshot-of-live-website.jpg](assets/images/Screenshot-of-live-website.jpg)
 
-
-
-
 Credits
 Triology Education Services
 Univeristy of Washington Full Stack Bootcamp
 
 License 
+MIT license 
