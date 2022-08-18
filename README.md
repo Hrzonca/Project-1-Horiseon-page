@@ -14,10 +14,14 @@ While doing this project we learned how to increase asscessibilty for everyone. 
 
 repository link
 https://github.com/Hrzonca/Project-1-Horiseon-page/tree/main/assets/images
+![Screenshot-of-GitHub-repository.jpg](assets/images/Screenshot-of-GitHub-repository.jpg)
 
 live page link 
 https://hrzonca.github.io/Project-1-Horiseon-page/
-<img src= ./assets/images/>
+![Screenshot-of-live-website.jpg](assets/images/Screenshot-of-live-website.jpg)
+
+
+
 
 Credits
 Triology Education Services
